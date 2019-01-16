@@ -1,0 +1,10 @@
+{
+    "name": "Cult Business Enhancements",
+    "author": "Doesurmindglow",
+    "version": "1.20.0",
+    
+    "description": "Adds a number of enhancements to the 'cult business' mechanics.",
+    "description_long": "The mod improves the chances of success for higher and highest level cultists; allows followers to work commissions; speeds up the charm mechanic and adds Favours from Authority as a potential reward; reworks augury to produce influences, with a risk of Fascination; reworks crafting to produce tools; reworks seduction to recruit hirelings, acquaintances, and patrons; and creates an alchemy mechanic that produces ingredients.",
+
+    "dependencies": []
+}
